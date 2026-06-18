@@ -116,6 +116,32 @@ Plataforma de gerenciamento para equipes de louvor desenvolvida para centralizar
 
 ---
 
+### 📦​ API de Delivery
+
+API em Python utilizando o framework FastAPI para um sistema de Delivery.
+
+#### Funcionalidades
+
+- Gestão de usuários
+- Controle de pedidos
+- Administração de sistema
+- Controle de funções de usuários
+  
+
+#### Tecnologias
+
+- FastAPI
+- Python
+- APIs REST
+- Banco de Dados SQL
+- SQLAlchemy
+- SQLite
+- JWT
+
+🚀 Projeto em desenvolvimento para aprofundamento em estudos de API.
+
+---
+
 ### 🏛️ Sistema IDB
 
 Sistema de gerenciamento de membros desenvolvido para controle, cadastro e administração de informações institucionais.
