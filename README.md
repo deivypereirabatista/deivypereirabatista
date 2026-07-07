@@ -2,11 +2,11 @@
 
 ## 💻 Sobre mim
 
-- 🎯 Em transição para Desenvolvimento Backend com Python
+- 🎯 Em transição para Desenvolvimento Backend com Node.Js e Python
 
 - 🏢 Atualmente atuando na área de TI da Pax Silva, com foco em infraestrutura, suporte, soluções corporativas e sistemas
 
-- 🐍 Estudando Python para desenvolvimento de APIs REST, automações e integração com Inteligência Artificial
+- 🐍 Estudando Python e Node.Js para desenvolvimento de APIs REST, automações e integração com Inteligência Artificial
 
 - ⚛️ Tenho breve conhecimentos em React para construção de interfaces web modernas
 
@@ -174,6 +174,20 @@ Projetos voltados para desenvolvimento Backend, automação e integração com I
 - Desenvolvimento de APIs REST
 - Automação de processos
 - Integração com IA
+- Manipulação de dados
+- Boas práticas de Backend
+- Arquitetura de Software
+
+---
+
+### 🤖 Estudos e Projetos com Node.Js
+
+Projetos voltados para desenvolvimento Backend.
+
+#### Áreas de foco
+
+- Desenvolvimento de APIs REST
+- Automação de processos
 - Manipulação de dados
 - Boas práticas de Backend
 - Arquitetura de Software
