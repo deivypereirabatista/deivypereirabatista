@@ -22,7 +22,8 @@
 - Integração Frontend e Backend
 
 📚 Atualmente aprofundando conhecimentos em:
-- Python
+- Node.Js
+- JavaScript
 - FastAPI
 - Arquitetura de Software
 - Docker
@@ -30,17 +31,17 @@
 - Inteligência Artificial
 
 🎯 Objetivo profissional:
-Atuar como Desenvolvedor Backend Python, unindo experiência em infraestrutura e desenvolvimento para criar soluções escaláveis, seguras e eficientes.
+Atuar como Desenvolvedor Full Stack JavaScript, unindo experiência em infraestrutura e desenvolvimento para criar soluções escaláveis, seguras e eficientes.
 
 ---
 
 ## 🚀 Atualmente estudando
 
-- Python para Desenvolvimento Backend
-- FastAPI
+- Node.Js para Desenvolvimento Backend
 - APIs REST
 - Arquitetura de Software
 - Banco de Dados SQL
+- FastAPI
 - Docker
 - Inteligência Artificial
 - Integração de APIs
@@ -53,11 +54,11 @@ Atuar como Desenvolvedor Backend Python, unindo experiência em infraestrutura e
 
 ### Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
 ### Frontend
 
